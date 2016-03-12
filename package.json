@@ -1,0 +1,25 @@
+{
+  "name": "socio_deck",
+  "version": "1.0.0",
+  "description": "A deck which hold tweets, FB postings, G+ postings and many more. In other words it will be content aggregate engine",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanshakeeb/socio_deck.git"
+  },
+  "keywords": [
+    "Electron",
+    "cross-platform-app",
+    "social",
+    "deck"
+  ],
+  "author": "Shakeeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanshakeeb/socio_deck/issues"
+  },
+  "homepage": "https://github.com/khanshakeeb/socio_deck"
+}
